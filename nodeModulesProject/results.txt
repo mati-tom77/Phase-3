@@ -1,0 +1,2 @@
+The value of 16 when passed through the myMultiplier1 function is 32.
+The value of 16 when passed through the myMultiplier2 function is 48.
